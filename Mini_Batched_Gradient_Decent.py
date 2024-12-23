@@ -55,8 +55,6 @@ w_initial = [0, 0]
 # Mini-batches
 batches = create_batches(X, y, k)
 
-# Stochastic Gradient Descent - 500 iterations for 10 randomly selected mini-batches
-
 # Randomly choose 10 mini-batches to process
 selected_batches = np.random.choice(len(batches), num_batches_to_use, replace=False)
     
