@@ -1,2 +1,2 @@
 # ML-training-projects
-this is all my machine learning projects so far. I'm still learning so thay are some basic machine learning algorithms with sample and real data.
+These are my basic machine learning projects. In most of them I used Kaggle datasets but some of them are with sampled data.
